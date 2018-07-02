@@ -49,21 +49,19 @@
 
 <div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS10#oeed05f0 "oeed05f0") 内容  
+### 内容  
 
 * 10:00-10:15 「はじめに：統合データベースプロジェクトとは？」（坊農秀雅）
-* 10:15-10:45 [「データベースを使いこなすための前準備」](http://MotDB.DBCLS.jp/?AJACS10%2Fbono1 "AJACS10/bono1 (3335d)")（坊農秀雅）
+* 10:15-10:45 [「データベースを使いこなすための前準備」](01_bono1.md)（坊農秀雅）
 * 10:45-11:30 「生命科学横断検索の利用法」（川本祥子）
 * 11:30-13:00 休憩
-* 13:00-13:30 [「DBCLS目次サービス（DNAデータベース総覧と検索、遺伝子発現バンク(GEO)目次）の利用法」](http://MotDB.DBCLS.jp/?AJACS10%2Fbono2 "AJACS10/bono2 (3342d)")（坊農秀雅）
-* 13:30-14:00 [「アナトモグラフィー/BodyParts3Dの利用法」](http://MotDB.DBCLS.jp/?AJACS10%2Fmitsuhashi "AJACS10/mitsuhashi (3337d)") （三橋信孝・藤枝香）
-* 14:00-14:30 [「文献検索にまつわる各種ツールの使いこなし術」](http://MotDB.DBCLS.jp/?AJACS10%2Fthecla "AJACS10/thecla (2956d)")（仲里猛留）
+* 13:00-13:30 [「DBCLS目次サービス（DNAデータベース総覧と検索、遺伝子発現バンク(GEO)目次）の利用法」](02_bono2.md)（坊農秀雅）
+* 13:30-14:00 [「アナトモグラフィー/BodyParts3Dの利用法」](03_mitsuhashi.md) （三橋信孝・藤枝香）
+* 14:00-14:30 [「文献検索にまつわる各種ツールの使いこなし術」](04_nakazato.md)（仲里猛留）
 * 14:30-14:45 休憩
-* 14:45-15:45 [「統合TVを駆使した遺伝子発現データの使い倒し術」（小野浩雅） ](http://MotDB.DBCLS.jp/?AJACS10%2Fhono "AJACS10/hono (3280d)")
-* 15:45-16:15 [「Genome AnnotationとKazusaAnnotation」 ](http://MotDB.DBCLS.jp/?AJACS10%2Fso "AJACS10/so (3334d)")（岡本忍）
+* 14:45-15:45 [「統合TVを駆使した遺伝子発現データの使い倒し術」（小野浩雅） ](05_hono.md")
+* 15:45-16:15 [「Genome AnnotationとKazusaAnnotation」 ](06_so.md)（岡本忍）
 * 16:15-16:30 休憩
-* 16:30-17:30 [大喜利](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%96%9C%E5%88%A9)「明日から使えるデータベース・ウェブツール」　[ネタ ](http://MotDB.DBCLS.jp/?AJACS10%2Fneta "AJACS10/neta (3333d)")
+* 16:30-17:30 [大喜利](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%96%9C%E5%88%A9)「明日から使えるデータベース・ウェブツール」　[ネタ ](07_kawano.md)
 
-* [講習会アンケート](http://MotDB.DBCLS.jp/?AJACS10%2Fquestionnaire "AJACS10/questionnaire (3331d)")
 
-}}
